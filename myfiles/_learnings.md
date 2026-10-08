@@ -2,7 +2,6 @@
 ## Anthropic API Keys
 
 Claude Console provides two types of API keys:
-
 1. **Linked (Service User Account) API Key**
    ```text
    sk-ant-api03-xxxxxxxxxxxxxxxx
@@ -11,11 +10,10 @@ Claude Console provides two types of API keys:
    ```text
    sk-ant-usr-xxxxxxxxxxxxxxxx
    ```
-You can create and manage API keys from the [Claude Console API Keys page](https://platform.claude.com/settings/keys).
+You can create and manage API keys from the [Claude Console API Keys page](https://platform.claude.com/settings/keys). Note: the linked api key is not the Claude API key format you need for the Messages API.
 
 
 ## Store and Load API Keys Using a `.env` File
-
 For local development, we store the API key in a `.env` file instead of hard-coding it in source code, as shown below:
 ```text
 ANTHROPIC_API_KEY=sk-ant-api03-xxxxxxxxxxxxxxxx

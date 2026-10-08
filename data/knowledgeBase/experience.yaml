@@ -1,0 +1,35 @@
+experience:
+  - id: lilium_intern_software_engineer
+    title: Intern Software Engineer
+    company: Lilium eAircraft GmbH
+    location: Germany
+    start: "2024-08"
+    end: "2025-01"
+    url: null
+    bullets:
+      - "Developed feature in PyQt-based VAST application to acquire signals from Test Benches."
+      - "Developed a Python tool to calculate CAN bus load based on predefined message types, lengths, and frequencies."
+      - "Performed data extraction from C files using Jinja templating and PyParsing."
+    skills:
+      - Python
+      - PyQt
+      - Jinja
+      - PyParsing
+      - CAN
+
+  - id: stce_intern_software_engineer
+    title: Intern Software Engineer
+    company: Software & Tools for Computational Engineering Lab
+    location: Germany
+    start: "2023-08"
+    end: "2024-01"
+    url: "https://github.com/mansooralodhi/casualitySensitivityLab"
+    bullets:
+      - "Developed a Python-based framework for input sensitivity analysis of computational models."
+      - "Implemented deterministic sensitivity analysis techniques, including finite differences and scenario decomposition."
+      - "Evaluated model sensitivity to input variations using spider and tornado diagrams with Matplotlib."
+    skills:
+      - Python
+      - Sensitivity Analysis
+      - Finite Differences
+      - Matplotlib

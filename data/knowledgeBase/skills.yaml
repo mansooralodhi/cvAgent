@@ -1,0 +1,38 @@
+skills:
+  programming_languages:
+    - Python
+    - C/C++
+
+  databases:
+    - MySQL
+    - SQL (Postgress)
+    - MongoDB
+
+  data_science:
+    - Pandas
+    - NumPy
+    - Seaborn
+    - Matplotlib
+
+  machine_learning_ai:
+    - PyTorch
+    - Jax
+    - Scikit-learn
+    - NLTK
+    - SpaCy
+    - OpenCV
+    - MATLAB
+
+  application_development:
+    - Tkinter
+    - Flask
+    - PyQt
+
+  tools_platforms:
+    - Git
+    - Docker
+    - Raspberry Pi
+    - Arduino
+    - VS Code
+    - Jupyter Notebook
+    - LaTex

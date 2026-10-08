@@ -1,0 +1,32 @@
+
+***** gentic job-application pipeline *****
+
+cvAgent/
+├── app.py
+├── config/
+├── data/
+│   ├── masterCV/
+│   ├── applications/
+│   └── knowledge/
+├── agents/
+│   ├── jobScraper.py
+│   ├── cvManager.py
+│   ├── coverLetter.py
+│   └── applicationAgent.py
+├── artifacts/
+│   ├── latexEditor.py
+│   ├── latexCompiler.py
+│   └── validator.py
+├── browser/
+│   ├── playwrightAgent.py
+│   └── ats_handlers/
+├── prompts/
+│   ├── analyzeJOB.md
+│   ├── tailorCV.md
+│   └── coverLetter.md
+└── output/
+    └── company_job_date/
+        ├── cv.tex
+        ├── cv.pdf
+        ├── coverLetter.pdf
+        └── application.json

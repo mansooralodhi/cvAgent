@@ -1,0 +1,23 @@
+education:
+  - id: tggs_msc_degree
+    institution: Thai-German Graduate School (TGGS-KMUTNB)
+    location: Thailand
+    degree: MS in Electrical and Computer Engineering
+    start: "2022-08"
+    end: "2025-12"
+    scholarship: DAAD Scholarship
+
+  - id: rwth_msc_exchange
+    institution: RWTH Aachen University
+    location: Germany
+    degree: MS in Computer Science (Non-Degree DAAD Exchange Program)
+    start: "2023-08"
+    end: "2025-10"
+    program: DAAD Exchange Program
+
+  - id: pieas_bsc_degree
+    institution: Pakistan Institute of Engineering and Applied Sciences
+    location: Pakistan
+    degree: BS in Computer and Information Sciences
+    start: "2015-10"
+    end: "2019-06"
